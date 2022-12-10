@@ -1,5 +1,7 @@
 # EE104_Lab_Final
 
+Collaborators: Michael Papa and William Olson
+
 github link: https://github.com/5WhoKnowsWhatIAmDoingE/EE104_Lab_Final
 
 demo of the DanceGame: https://youtu.be/bOKfT-lT2gA
