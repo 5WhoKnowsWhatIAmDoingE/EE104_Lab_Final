@@ -1,6 +1,6 @@
 # EE104_Lab_Final
 
-github link:
+github link: https://github.com/5WhoKnowsWhatIAmDoingE/EE104_Lab_Final
 
 demo of the DanceGame: https://youtu.be/bOKfT-lT2gA
 
